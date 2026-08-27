@@ -1,7 +1,10 @@
 ## Hi there I'm Julie Mork👋
 
 ![](https://komarev.com/ghpvc/?username=Jumo0003)
+
+
 Here are the skills i use when i work
+___
 ![Static Badge](https://img.shields.io/badge/CSS%20-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Javascript%20-%20blue)
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20violet)
