@@ -1,4 +1,4 @@
-## Hi there I'm Julie Mork👋
+# Hi there I'm Julie Mork👋
 
 ![](https://komarev.com/ghpvc/?username=Jumo0003)
 
@@ -10,6 +10,17 @@ ___
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20violet)
 ![Static Badge](https://img.shields.io/badge/Astro%20-%20%23c8a370)
 
+
+## Here are the Themes i will be working with for school 
+
+### Frontend Logic 
+ Week 34-37
+
+### Frontend Design
+ Week 38-41
+
+### Frontend Frameworks  
+ week 42-46 
 <!--
 **Jumo0003/Jumo0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
