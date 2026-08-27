@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there I'm Julie Mork👋
 
 ![](https://komarev.com/ghpvc/?username=Jumo0003)
+Here are the skills i use when i work
+![Static Badge](https://img.shields.io/badge/CSS%20-brightgreen)
+![Static Badge](https://img.shields.io/badge/Javascript%20-%20blue)
+![Static Badge](https://img.shields.io/badge/HTML%20-%20violet)
+![Static Badge](https://img.shields.io/badge/Astro%20-%20%23c8a370)
+
 <!--
 **Jumo0003/Jumo0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
