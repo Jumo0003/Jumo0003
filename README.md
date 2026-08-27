@@ -1,6 +1,6 @@
 # Hi there I'm Julie Mork👋
 
-![](https://komarev.com/ghpvc/?username=Jumo0003)
+
 
 
 Here are the skills i use when i work
@@ -21,6 +21,11 @@ ___
 
 ### Frontend Frameworks  
  week 42-46 
+
+___
+
+![](https://komarev.com/ghpvc/?username=Jumo0003)
+ 
 <!--
 **Jumo0003/Jumo0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
